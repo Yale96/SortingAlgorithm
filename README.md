@@ -1,2 +1,2 @@
 # SortingAlgorithm
-Afgeleide van het zogeheten Bubble Sort algoritme.
+Gebruik gemaakt van het zogeheten Bubble Sort algoritme.
