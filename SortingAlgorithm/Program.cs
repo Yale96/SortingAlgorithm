@@ -35,7 +35,7 @@ public class Program
         PrintTransactions("Transactions sorted by descending amount for transactions with the same date:", transactions);
     }
 
-    // Afgeleide van het zogeheten Bubble Sort algoritme
+    // Gebruik gemaakt van het zogeheten Bubble Sort algoritme
     // Loop door de lijsten en controleer of deze voldoet aan de sort voorwaarden
     // Doet hij dat niet, dan wordt er geswapt en wordt de juiste sortering terug gegeven.
     // Gebruik generic type T, zodat de functie voor meerdere doeleinden kan worden gebruikt.
